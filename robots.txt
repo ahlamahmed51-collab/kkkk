@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kkkk-gold-one.vercel.app/sitemap.xml
